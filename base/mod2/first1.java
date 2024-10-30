@@ -1,4 +1,4 @@
-package oop;
+package mod2;
 
 import java.util.Random;
 
@@ -58,7 +58,7 @@ class Player {
     }
 }
 
-public class mod1 {
+public class first1 {
     public static void main(String[] args) {
         // создаем объекты
         Player bot = new Player();
