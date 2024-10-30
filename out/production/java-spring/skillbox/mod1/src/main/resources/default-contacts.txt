@@ -1,2 +1,0 @@
-John Doe;+78001111111;johndoe@example.com
-Petr Makarov;+79139714445;piotr.makarov@gmail.com
