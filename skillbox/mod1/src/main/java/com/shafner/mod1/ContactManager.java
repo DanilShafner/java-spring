@@ -29,12 +29,13 @@ public class ContactManager {
             contactList = new HashMap<>();
         }
 
-        System.out.println(
-                "commands: list - show all contacts"
-                        + "\\nadd: John Doe; +78001111111; johndoe@example.com - add a contact"
-                        + "\\ndelete: johndoe@example.com - remove contact by email"
-                        + "\\nexit - save and exit"
-        );
+        System.out.println("""
+                commands:
+                list - show all contacts
+                add: John Doe; +78001111111; johndoe@example.com - add a contact
+                delete: johndoe@example.com - remove contact by email
+                exit - save and exit
+        """);
 
         var scanner = new Scanner(System.in);
 
