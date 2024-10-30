@@ -1,0 +1,3 @@
+Иванов Иван Иванович;+890999999;someEmail@example.example
+lox lox;+79222267896;lox@mail.ru
+Danil Shafner;+79222267896;7eleven12@mail.ru
